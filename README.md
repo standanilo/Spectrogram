@@ -1,2 +1,2 @@
-# Spektrogram
-Spektorgram/Shazam aplikacija za prepoznavanje pesme na osnovu kratkog isecka
+# Spectrogram
+Spectorgram/Shazam application for song recognition based on a short audio snippet
